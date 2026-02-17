@@ -21,3 +21,8 @@ This project analyzes transactional pizza sales data using SQL to derive busines
 
 ## Outcome
 Demonstrates ability to extract meaningful business insights using structured SQL queries.
+
+## Project Report
+
+A detailed project report including SQL queries, outputs, and business insights is available in:
+SQL_Pizza_Sales_Analysis_Report.pdf
